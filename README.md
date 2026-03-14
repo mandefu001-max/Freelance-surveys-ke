@@ -63,3 +63,4 @@ curl -X POST https://YOUR-APP.onrender.com/payhero-callback \
 Make sure your Firestore rules allow the Admin SDK to write:
 The Admin SDK bypasses all security rules — no changes needed.
 # Freelance-surveys-ke
+# Freelance-surveys-ke
